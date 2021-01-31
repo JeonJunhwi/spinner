@@ -1,0 +1,22 @@
+{
+    "name": "Spinner",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "magicbit": "github:emakefun/pxt-magicbit#ed42b9f1bf85bcb39101cb4e65054ee3939e6243",
+        "bluetooth": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
